@@ -1,0 +1,35 @@
+.speech{
+    font-style: italic;
+    font-size: 16px;
+    color: black;
+}
+
+.song{
+    font-style:oblique;
+    font-size: 16px;
+    color: black;
+}
+.direction{
+    font-style: initial;
+    font-size: 16px;
+    color: black;
+}
+.name{
+    font-style: italic;
+    font-size: 16px;
+    color:black;
+}
+.BOT{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    color: aqua;
+}
+.DIK{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    color: beige;
+}
+.BOT{
+    font-family: 'Courier New', Courier, monospace;
+}
+
