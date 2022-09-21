@@ -9,27 +9,34 @@
     font-size: 16px;
     color: black;
 }
-.direction{
+.directions{
     font-style: initial;
     font-size: 16px;
     color: black;
+    background-color: limegreen;
 }
-.name{
+.directions:hover{
+    background-color: black;
+    color: white;
+}
+.boa{
     font-style: italic;
     font-size: 16px;
     color:black;
 }
-.BOT{
+.bot{
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     color: aqua;
 }
-.DIK{
+.dic{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 16px;
-    color: beige;
+    color: brown;
 }
-.BOT{
-    font-family: 'Courier New', Courier, monospace;
+.dik{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    color: tomato;
 }
 
