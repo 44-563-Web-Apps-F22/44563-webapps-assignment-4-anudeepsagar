@@ -37,6 +37,7 @@
 .boa:hover{
     text-shadow: 2px 2px rgb(222, 135, 135);
     border-style: dashed;
+    background-color: lightslategrey;
 }
 .boa{
     font-family: 'Courier New', Courier, monospace;
