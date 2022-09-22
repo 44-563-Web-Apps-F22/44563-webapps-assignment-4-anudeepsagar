@@ -17,7 +17,7 @@
 }
 .directions:hover{
     background-color: black;
-    color: white;
+    color: rgb(214, 49, 49);
 }
 .directions{
     font-style: oblique;
@@ -26,7 +26,7 @@
     background-color: rgb(44, 77, 77);
 }
 .directions:hover{
-    background-color:antiquewhite  
+    background-color:rgb(213, 160, 91)  
       color blue;  
 }
 .boa{
@@ -34,7 +34,11 @@
     font-size: 16px;
     color:black;
 }
-.bot{
+.boa:hover{
+    text-shadow: 2px 2px rgb(222, 135, 135);
+    border-style: dashed;
+}
+.boa{
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     color: aqua;
@@ -44,7 +48,7 @@
     font-size: 16px;
     color: brown;
 }
-.dik{
+.dic{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 16px;
     color: tomato;
@@ -64,6 +68,13 @@ tr:nth-child(even)
 {
     background-color: rgb(175, 188, 196);
 }
-h1 {
-    text-shadow: 2px 2px rgb(222, 135, 135);
-  }
+boa{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    color: aqua;
+}
+.directions:hover{
+    background-color: black;
+    color: white;
+}
+
