@@ -40,3 +40,18 @@
     color: tomato;
 }
 
+table.table
+{
+    color:rgb(88, 36, 88);
+    text-align: center;
+    padding: 50px;
+    margin:17px;
+}
+table, th, td {
+    border: 4px  double;
+  }
+tr:nth-child(even)
+{
+    background-color: rgb(175, 188, 196);
+}
+
