@@ -78,4 +78,20 @@ boa{
     background-color: black;
     color: white;
 }
+.navbar-horizontal {
+list-style-type: none;
+overflow: hidden;
+margin: 0;
+padding: 4px;
+background-color:rgb(82, 17, 221);
+
+}
+li a {
+display: block;
+color: rgb(196, 82, 82);
+float: left;
+padding: 4px;
+text-decoration: none;
+
+}
 
